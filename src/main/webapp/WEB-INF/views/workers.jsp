@@ -5,8 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-WORKERS <br>
-wysolowany pracownik:
-<p ${worker} </p>
+<p>Wartość przekazana : ${worker} </p>
 </body>
 </html>

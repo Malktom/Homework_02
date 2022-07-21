@@ -27,7 +27,7 @@ public class HelloController {
                 int id = Integer.parseInt(worker.replaceAll("\\D", ""));
                 if (id == random) {
                     model.addAttribute("worker", worker);
-
+                    return "workers";
                 }
 
 

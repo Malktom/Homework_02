@@ -5,6 +5,8 @@
     <title>Title</title>
 </head>
 <body>
-<p>Wartość przekazana : ${userAgent} </p>
+FIRST <br>
+link
+<a href="/second">link to second</a>
 </body>
 </html>

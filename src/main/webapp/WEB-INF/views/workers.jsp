@@ -5,6 +5,8 @@
     <title>Title</title>
 </head>
 <body>
-<p>Wartość przekazana : ${userAgent} </p>
+WORKERS <br>
+wysolowany pracownik:
+<p ${worker} </p>
 </body>
 </html>
